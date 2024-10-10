@@ -1,4 +1,4 @@
-# BLUNGE-AI Project
+# Background Removal
 
 ## Project Description
 This project is a background removal demo developed as part of a consulting project with Blunge.AI under 180 Degrees Consulting. It aims to explore and demonstrate various tools for background removal, providing insights into how different models perform on this task. The project is accompanied by a research report that details the models used, their architectures, and the results.
