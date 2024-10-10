@@ -3,7 +3,7 @@
 ## Project Description
 This project is a background removal demo developed as part of a consulting project with Blunge.AI under 180 Degrees Consulting. It aims to explore and demonstrate various tools for background removal, providing insights into how different models perform on this task. The project is accompanied by a research report that details the models used, their architectures, and the results.
 
-## How to Run the Front-End
+## How to Run the Application
 To run the front-end for this project, follow these steps:
 
 1. Navigate to the `blunge-ai-frontend` directory.
@@ -15,7 +15,20 @@ To run the front-end for this project, follow these steps:
    ```bash
    npm start
 5. It will ask if you would like to run in an alternative port. Click yet.
-6. Navigate to 'http://localhost:3001' to use the applicaition
+6. Navigate to 'http://localhost:3001' to use the application
+
+## Research Report
+A comprehensive research report accompanies this project, outlining the background removal models used and their results. You can view the report [here](https://docs.google.com/document/d/1MyD-i57LvN-rH2dc7LvEKHIrMT19zSuWtWPWVm8hRHo/edit?tab=t.0).
+
+### Table of Contents from the Research Report:
+#### Models Attempted:
+- [Bira.ai](https://bira.ai/)
+- [SAM by Meta](https://segment-anything.com/)
+- [DigSeg](https://digseg.com/)
+- [rembg](https://github.com/danielgatis/rembg)
+- [SegNet](https://arxiv.org/abs/1511.00561)
+
+The report includes image outputs for all these models along with their architectures, showcasing their performance on background removal tasks.
 
 
    
