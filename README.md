@@ -21,7 +21,13 @@ To run the front-end for this project, follow these steps:
 A comprehensive research report accompanies this project, outlining the background removal models used and their results. You can view the report [here](https://docs.google.com/document/d/1MyD-i57LvN-rH2dc7LvEKHIrMT19zSuWtWPWVm8hRHo/edit?tab=t.0).
 
 ### Table of Contents from the Research Report:
-#### Models Attempted:
+#### Business Component:
+- Customer interview and market research
+- Market Sentiment Analysis 
+#### Technical Component:
+##### Segmentation Model Experimentation:
+The following models were tested using a wide range of parameter
+
 - [Bira.ai](https://bira.ai/)
 - [SAM by Meta](https://segment-anything.com/)
 - [DigSeg](https://digseg.com/)
@@ -29,6 +35,10 @@ A comprehensive research report accompanies this project, outlining the backgrou
 - [SegNet](https://arxiv.org/abs/1511.00561)
 
 The report includes image outputs for all these models along with their architectures, showcasing their performance on background removal tasks.
+##### Front-End Functionality And Design Thesis:
+- Highlights the justification behind design decisions
+
+
 
 
    
