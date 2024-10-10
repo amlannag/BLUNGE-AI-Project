@@ -39,7 +39,10 @@ The report includes image outputs for all these models along with their architec
 - Highlights the justification behind design decisions
 
 ## Functionality 
-=======
+
+This demo allows users to upload their own images or use Stable Diffusion-generated images from Blunge.AI. By leveraging the Bira.AI model from Hugging Face, users can remove the background of their images with minimal distortion, resulting in a clean and seamless image segmentation process.
+
+![Video Demo](BLUNGE-AI-Project/bg_removal.gif)
 
 
 ## Tech Stack Used
