@@ -37,7 +37,10 @@ The following models were tested using a wide range of parameter
 The report includes image outputs for all these models along with their architectures, showcasing their performance on background removal tasks.
 ##### Front-End Functionality And Design Thesis:
 - Highlights the justification behind design decisions
+
 ## Functionality 
+=======
+
 
 ## Tech Stack Used
 ### Front-End
