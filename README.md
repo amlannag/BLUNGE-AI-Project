@@ -30,7 +30,6 @@ The following models were tested using a wide range of parameter
 
 - [Bira.ai](https://bira.ai/)
 - [SAM by Meta](https://segment-anything.com/)
-- [DigSeg](https://digseg.com/)
 - [rembg](https://github.com/danielgatis/rembg)
 - [SegNet](https://arxiv.org/abs/1511.00561)
 
