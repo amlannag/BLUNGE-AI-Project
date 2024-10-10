@@ -14,7 +14,7 @@ To run the front-end for this project, follow these steps:
 4. Next in a new terminal run:
    ```bash
    npm start
-5. It will ask if you would like to run in an alternative port. Click yet.
+5. It will ask if you would like to run in an alternative port. Click yes.
 6. Navigate to 'http://localhost:3001' to use the application
 
 ## Research Report
