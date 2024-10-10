@@ -62,21 +62,21 @@ Finally, users can directly download the segmented image as a PNG file.
 
 ## Tech Stack Used
 ### Front-End
-**React:** A JavaScript library for building user interfaces.
-**TypeScript:** A statically typed version of JavaScript used for better code quality and debugging.
-**CSS:** For styling the user interface and layout.
-**React Hooks:** State and lifecycle management for functional components.
-**HTML5 Canvas:** Used for drawing and manipulating images, including brush and erase tools.
+- **React:** A JavaScript library for building user interfaces.
+- **TypeScript:** A statically typed version of JavaScript used for better code quality and debugging.
+- **CSS:** For styling the user interface and layout.
+- **React Hooks:** State and lifecycle management for functional components.
+- **HTML5 Canvas:** Used for drawing and manipulating images, including brush and erase tools.
 ### Back-End
-**Python:** Used for the server-side code.
-**Flask:** A lightweight web framework for handling API requests.
-**Transformers (HuggingFace):** Used for the image segmentation pipeline (image-segmentation model).
-**Pillow (PIL):** For image manipulation in Python.
-**Flask-CORS:** For enabling Cross-Origin Resource Sharing, allowing the front-end to communicate with the back-end.
+- **Python:** Used for the server-side code.
+- **Flask:** A lightweight web framework for handling API requests.
+- **Transformers (HuggingFace):** Used for the image segmentation pipeline (image-segmentation model).
+- **Pillow (PIL):** For image manipulation in Python.
+- **Flask-CORS:** For enabling Cross-Origin Resource Sharing, allowing the front-end to communicate with the back-end.
 ### Other Tools
-**npm:** Used for managing dependencies and running the front-end application.
-**Fetch API:** For handling HTTP requests between the front-end and back-end.
-**Browser's Blob:** To handle image downloads in the front-end
+- **npm:** Used for managing dependencies and running the front-end application.
+- **Fetch API:** For handling HTTP requests between the front-end and back-end.
+- **Browser's Blob:** To handle image downloads in the front-end
 
 
 ## Extension 
