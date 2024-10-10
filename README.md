@@ -79,4 +79,9 @@ Finally, users can directly download the segmented image as a PNG file.
 **Browser's Blob:** To handle image downloads in the front-end
 
 
+## Extension 
+An extension to this report could involve implementing an inpainting model to generate a custom background for the segmented images (outpainting).
+A link to a hugging face repository can be found [here](https://huggingface.co/docs/diffusers/advanced_inference/outpaint#image-preparation)
+
+
    
